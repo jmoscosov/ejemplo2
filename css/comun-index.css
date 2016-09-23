@@ -1,0 +1,100 @@
+.navsup{
+    background-color: #1A097A;
+    color:F0F0F0;
+    height: 90;
+    text-align: center;
+    margin-bottom:  0px;
+}
+.navbotton{
+    background-color: #1A094A;
+    color:F0F0F0;
+    height: 40px;
+}
+.fondo{
+    background-image: url(../img/fondo1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+    background-position: center;
+	font-size: 20%; 
+    height: 100%;
+    padding:1%;
+    opacity: 50%;
+    max-height: 80%;
+}
+.container-fluid {
+	padding: 0px;
+}
+.row{
+    margin: auto
+        
+}
+.logo-reservar:hover{
+    background: rgba(70,70,70,.5);
+    color: white;
+}
+.icono1{
+   height: 20%;
+}
+.logo-reservar{
+    font-size: 45px;
+    text-align: center;
+    background-color: rgba(0, 91, 255, 0.6);
+    color:white;
+    border-radius: 10px 10px;
+    height: 30%;
+    padding-top: 5%;
+    margin-top: 10%;
+    margin-right: 0px;
+    padding-left: 0px;
+}
+.logo-consultar{
+    font-size: 45px;
+    text-align: center;
+    background-color: rgba(0, 91, 255, 0.6);
+    color:white;
+    border-radius: 10px 10px;
+    height: 30%;
+    padding-top: 5%;
+    margin-top: 10%;
+    margin-right: 0px;
+    padding-left: 0px;
+}
+.logo-consultar:hover{
+    background: rgba(60,40,40,0.2);
+    color: white;
+}
+.logo-anular{
+    font-size: 50px;
+    text-align: center;
+    background-color: rgba(0, 91, 255, 0.6);
+    color:white;
+    border-radius: 10px 10px;
+    height: 30%;
+    padding-top: 5%;
+    margin-top: 10%;
+    margin-right: 0px;
+    padding-left: 0px;
+}
+.logo-anular:hover{
+    background: rgba(60,40,40,0.2);
+    color: white;
+}
+.columna-opciones{
+    margin-top: 10%;
+    padding: 0px;
+}
+
+.footer{ 
+  height: 50px; 
+  background:#1A097A; 
+  width:100%; 
+  position:fixed; 
+  bottom:0; 
+  left:0; 
+  margin-top: 60%;    
+}
+.titulo-menu{
+    font-size: 20px;
+    padding: 0px;
+    margin: 0px;
+}
